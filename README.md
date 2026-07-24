@@ -1,45 +1,34 @@
-Superstore Sales Analysis Dashboard
-Project Overview
+# Superstore Sales Analysis Dashboard – README
 
-This project presents an interactive Power BI dashboard developed using the Sample Superstore dataset. It provides insights into sales, profit, product performance, customer segments, regional performance, and key business metrics to support data-driven decision-making.
+## Project Overview
 
-Tools Used
-Power BI Desktop
-Sample Superstore Dataset
-Dashboard Overview
-Page 1 – Business Performance
-Sales Trend
-Profit by Category
-Sales & Profit by Segment
-Sales by Region
-Discount vs Profit
-Sales by Ship Mode
-Page 2 – Product Analysis
-Sales by Product
-Sales by Category & Sub-Category
-Profit by Product
-Page 3 – Interactive Filters
-Order Date
-Category
-Segment
-Region
-Ship Mode
-Page 4 – KPI Dashboard
-Total Sales
-Total Profit
-Total Discount
-Total Orders
-Profit Margin
-Key Insights
-Technology is the most profitable category.
-Consumer segment contributes the highest sales.
-West region records the highest sales.
-Higher discounts negatively impact profitability.
-Standard Class is the most frequently used shipping mode.
-KPIs provide a quick overview of overall business performance.
-Conclusion
+This project presents an interactive **Power BI dashboard** created using the **Sample Superstore** dataset. The dashboard analyzes sales performance, profitability, customer segments, regional performance, and product trends to provide meaningful business insights.
 
-The dashboard transforms raw sales data into meaningful business insights through interactive visualizations and KPIs. It enables users to monitor performance, identify trends, evaluate product and regional performance, and make informed business decisions.
+## Dashboard Features
 
+* KPI Cards displaying Total Sales, Total Profit, Total Orders, Average Discount, and Profit Margin.
+* Sales trend analysis over time.
+* Regional and state-wise sales and profit analysis.
+* Category and sub-category performance comparison.
+* Customer segment analysis.
+* Top and bottom performing products.
+* Discount versus Profit analysis.
+* Interactive slicers for Region, Category, Segment, Ship Mode, and Order Date.
+
+## Key Insights
+
+* Identified the highest and lowest performing regions and product categories.
+* Analyzed the impact of discounts on profitability.
+* Highlighted top-selling and loss-making products.
+* Enabled interactive filtering for detailed business analysis.
+
+## Tools Used
+
+* Power BI Desktop
+* Sample Superstore Dataset
+
+## Outcome
+
+The dashboard transforms raw sales data into clear visual insights, helping stakeholders identify trends, evaluate business performance, and support data-driven decision-making.
 Developed by: Haripriya Hareendran
-Course: Master's in Data Science and Analytics# visual-report
+Course: Master's in Data Science and Analytics
